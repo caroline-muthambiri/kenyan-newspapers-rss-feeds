@@ -1,4 +1,3 @@
-# kenyan-newspapers-rss-feeds
 Kenyan Newspaper RSS Feeds
 
 This Simple python script that will run on your linux terminal uses the python package feedparser and will give you the satisfying freedom of reading your Kenyan main newspaper feeds straight from your terminal. Each post has a link to read more from the newspaper's website.
